@@ -4,17 +4,14 @@ Extrau els preus, la disponibilitat i certs atributs de la pàgina https://newlu
 
 Per a executar el codi deuen instal·lar-se les següents llibreries:
 	
-from bs4 import BeautifulSoup
+pip install re
 
-import requests
+pip install pandas
 
-import numpy as np
+pip install beautifulsoup4
 
-import pandas as pd
+pip install requests
 
-import csv
-
-import re
 
 El script s'ha d'executar amb el següent comando:
 python tipologia_PRA1.py
@@ -32,3 +29,5 @@ diponibilitats
 colors
 
 dimensions
+
+
