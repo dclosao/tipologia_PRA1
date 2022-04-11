@@ -38,5 +38,11 @@ Catalin Dediu i David Closa
 ## Joc de dades
 El Dataset es pot trobar a Zenodo a l’enllaç: https://zenodo.org/record/6438650#.YlPFdyhBxD8 amb el codi DOI: 10.5281/zenodo.6438650 
 
+## Fitxers del projecte
+
+* tipologia_PRA1.py: codi que genera el dataset final
+* csv/output_scraping.csv: dataset general pel codi
+* pdf/WEBSCRAPING_DOC_PRAC1.pdf: document explicatiu del projecte
+
 
 
