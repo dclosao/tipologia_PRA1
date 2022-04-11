@@ -1,4 +1,5 @@
-# tipologia_PRA1
+# Sobre el projecte
+## Sobre el codi
 
 Extrau els preus, la disponibilitat i certs atributs de la pàgina https://newluxbrand.com/shop/ 
 
@@ -30,5 +31,12 @@ Aquest script generarà un fitxer en format CSV amb les següents columnes:
 * colors
 
 * dimensions
+
+## Membres de l'equip
+Catalin Dediu i David Closa
+
+## Joc de dades
+El Dataset es pot trobar a Zenodo a l’enllaç: https://zenodo.org/record/6438650#.YlPFdyhBxD8 amb el codi DOI: 10.5281/zenodo.6438650 
+
 
 
